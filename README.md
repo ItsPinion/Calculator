@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-purple.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-![Calculator Screenshot](https://i.ibb.co/wyf31Px/image.png)
+[![Calculator Screenshot](https://i.ibb.co/rcqYv99/rsz-660a8ae5802e9.png)](https://calculator-itspinion.vercel.app)
 
 A simple yet functioning calculator built with TypeScript and Vite. This project demonstrates the use of modern web technologies to create a user-friendly calculator application.
 
